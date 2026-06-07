@@ -29,17 +29,17 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
   <br><br>
-  <!-- 1. 절대 깨지지 않는 전 세계 표준 방문자수 카운터로 변경 -->
-  <img src="https://komarev.com/ghvc/?username=dfadffdf&color=blue&style=flat-square&label=Profile+Views" alt="Views" />
+  <!-- 1. 가장 안정적인 Glitch 카운터 서버로 우회 (절대 안 깨짐) -->
+  <img src="https://profile-counter.glitch.me/dfadffdf/count.svg" alt="Views" />
 </div> 
 
 <br>
 
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
-  <!-- 2. 깃허브 캐시 시스템을 강제로 우회하는 고유 주소 적용 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dfadffdf&show_icons=true&theme=dark&hide_border=true&version=2" height="180" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfadffdf&layout=compact&theme=dark&hide_border=true&version=2" height="180" />
+  <!-- 2. 공식 서버 대신 깃허브 차단이 없는 마스터 빌드 우회 서버 주소로 전면 교체 -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=dfadffdf&show_icons=true&theme=dark&hide_border=true" height="180" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dfadffdf&layout=compact&theme=dark&hide_border=true" height="180" />
 </div>
 
 ---
