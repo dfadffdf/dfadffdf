@@ -1,6 +1,7 @@
 <div align="center">
-  <!-- 상단 배너 (정상 작동) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome%20to%20My%20GitHub!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3182CE&center=true&vCenter=true&width=600&lines=Computer+Science+Student+🖥️;Java+%26+Web+UI+Developer+☕;Building+Code+Judge+Platform+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center"> 
@@ -15,7 +16,6 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
-  <!-- 잘 나오는 기술 뱃지들 -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -37,7 +37,7 @@
 
 ### 1️⃣ Code Judge 온라인 채점 플랫폼 인터페이스 개발 💻
 - **프로젝트 소개**: 백준 스타일의 온라인 코드 저지 및 채점 시스템 구축 프로젝트
-- **담당 역할**: 프론트엔드 UI/UX 설계 및 마크업 구현, 글래스모피즘 기반 다크모드 로그인 화면 및 다중 문제 선택 및 실시간 코드 템플릿 연동 로직 구현, 채점 결과 출력용 콘솔 인터페이스 설계
+- **담당 역할**: 프론트엔드 UI/UX 설계, 글래스모피즘 기반 다크모드 로그인 화면 및 동적 문제 스위칭 로직 구현
 - **바로가기**: [sophomore_1_BOSS_project](https://github.com/YeongnamKwon/sophomore_1_BOSS_project)
 
 ### 2️⃣ 알고리즘 스터디 타이머 & 스니펫 저장소 ⏱️ (준비 중)
